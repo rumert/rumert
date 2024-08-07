@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 3 years<br>📚 I'm currently learning Vue.js<br>🎯 Goals: integrating ai to my projects</p>
+<p align="left">✨ Creating bugs for 2-3 years<br>📚 I'm currently learning CI/CD<br>🎯 Goals: everyday, learning sth new in backend </p>
 
 ###
 
