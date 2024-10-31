@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning CI/CD<br>🎯 Goals: everyday, learning sth new in backend </p>
+<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently learning Database Optimization<br>🎯 Goals: everyday, learning sth new in backend </p>
 
 ###
 
